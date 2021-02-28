@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace hw1_2
 {
-    static class Program
+    static class HW1_2
     {
         /// <summary>
         /// 应用程序的主入口点。
