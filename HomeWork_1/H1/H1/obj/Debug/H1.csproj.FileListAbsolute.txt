@@ -1,0 +1,7 @@
+E:\C#_repos\HomeWork_1\H1\H1\bin\Debug\H1.exe.config
+E:\C#_repos\HomeWork_1\H1\H1\bin\Debug\H1.exe
+E:\C#_repos\HomeWork_1\H1\H1\bin\Debug\H1.pdb
+E:\C#_repos\HomeWork_1\H1\H1\obj\Debug\H1.csprojAssemblyReference.cache
+E:\C#_repos\HomeWork_1\H1\H1\obj\Debug\H1.csproj.CoreCompileInputs.cache
+E:\C#_repos\HomeWork_1\H1\H1\obj\Debug\H1.exe
+E:\C#_repos\HomeWork_1\H1\H1\obj\Debug\H1.pdb

@@ -1,0 +1,10 @@
+E:\C#_repos\HomeWork_1\H1\H1-2\bin\Debug\H1-2.exe.config
+E:\C#_repos\HomeWork_1\H1\H1-2\bin\Debug\H1-2.exe
+E:\C#_repos\HomeWork_1\H1\H1-2\bin\Debug\H1-2.pdb
+E:\C#_repos\HomeWork_1\H1\H1-2\obj\Debug\H1-2.csprojAssemblyReference.cache
+E:\C#_repos\HomeWork_1\H1\H1-2\obj\Debug\H1_2.Properties.Resources.resources
+E:\C#_repos\HomeWork_1\H1\H1-2\obj\Debug\H1-2.csproj.GenerateResource.cache
+E:\C#_repos\HomeWork_1\H1\H1-2\obj\Debug\H1-2.csproj.CoreCompileInputs.cache
+E:\C#_repos\HomeWork_1\H1\H1-2\obj\Debug\H1-2.exe
+E:\C#_repos\HomeWork_1\H1\H1-2\obj\Debug\H1-2.pdb
+E:\C#_repos\HomeWork_1\H1\H1-2\obj\Debug\H1_2.Form1.resources
