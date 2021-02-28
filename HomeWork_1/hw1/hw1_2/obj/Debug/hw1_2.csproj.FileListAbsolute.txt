@@ -8,3 +8,13 @@ E:\GitRepos\repo_local\ZhangZ100\hw1_2\obj\Debug\hw1_2.csproj.CoreCompileInputs.
 E:\GitRepos\repo_local\ZhangZ100\hw1_2\obj\Debug\hw1_2.exe
 E:\GitRepos\repo_local\ZhangZ100\hw1_2\obj\Debug\hw1_2.pdb
 E:\GitRepos\repo_local\ZhangZ100\hw1_2\obj\Debug\hw1_2.Form1.resources
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\hw1\hw1_2\bin\Debug\hw1_2.exe.config
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\hw1\hw1_2\bin\Debug\hw1_2.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\hw1\hw1_2\bin\Debug\hw1_2.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\hw1\hw1_2\obj\Debug\hw1_2.csprojAssemblyReference.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\hw1\hw1_2\obj\Debug\hw1_2.Form1.resources
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\hw1\hw1_2\obj\Debug\hw1_2.Properties.Resources.resources
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\hw1\hw1_2\obj\Debug\hw1_2.csproj.GenerateResource.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\hw1\hw1_2\obj\Debug\hw1_2.csproj.CoreCompileInputs.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\hw1\hw1_2\obj\Debug\hw1_2.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\hw1\hw1_2\obj\Debug\hw1_2.pdb

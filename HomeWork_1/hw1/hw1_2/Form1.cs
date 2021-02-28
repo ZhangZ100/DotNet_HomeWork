@@ -16,6 +16,8 @@ namespace hw1_2
 
         static double num1;
         static double num2;
+        static string symbol;
+
 
         public Form1()
         {
@@ -50,7 +52,7 @@ namespace hw1_2
                     double nu = double.Parse(num);
                     return nu;
                 }
-                else Console.WriteLine("输入不合法,请重新输入：");
+                else { }
             }
         }
 
@@ -65,12 +67,26 @@ namespace hw1_2
             catch { return false; }
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {       
+            symbol = comboBox1.Text;
+        }
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+                    
+            if (symbol == "+") { MessageBox.Show("答案是：" + (num1 + num2)); }
+            if (symbol == "-") { MessageBox.Show("答案是：" + (num1 - num2)); }
+            if (symbol == "*") { MessageBox.Show("答案是：" + (num1 * num2)); }
+            if (symbol == "/" && num2 != 0) { MessageBox.Show("答案是：" + (num1 / num2)); }
+            if (symbol == "%") { MessageBox.Show("答案是：" + (num1 % num2)); }
+            else { MessageBox.Show("There are something wrong!", "ERROR"); }
+            
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
