@@ -11,3 +11,10 @@ E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1-1\obj\Debug\H1
 E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1-1\obj\Debug\H1-1.csproj.CoreCompileInputs.cache
 E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1-1\obj\Debug\H1.exe
 E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1-1\obj\Debug\H1.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1\bin\Debug\H1.exe.config
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1\bin\Debug\H1.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1\bin\Debug\H1.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1\obj\Debug\H1-1.csprojAssemblyReference.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1\obj\Debug\H1-1.csproj.CoreCompileInputs.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1\obj\Debug\H1.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_1\H1\H1\obj\Debug\H1.pdb

@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HomeWork_1",
+    "\\HomeWork_1\\H1",
+    "\\HomeWork_1\\H1\\H1\\Properties",
+    "\\HomeWork_2",
+    "\\HomeWork_2\\H2"
   ],
-  "SelectedNode": "\\HomeWork_2",
+  "SelectedNode": "\\HomeWork_2\\H2\\H2.sln",
   "PreviewInSolutionExplorer": false
 }
