@@ -32,6 +32,7 @@ namespace H2_2
             {
                 sum += ints[i];           
             }
+            //推荐用foreach循环
             return sum;
         }
     }

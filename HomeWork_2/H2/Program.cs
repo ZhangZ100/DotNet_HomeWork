@@ -10,7 +10,7 @@ namespace H2
     {
         static int num;
         static string str;
-        static int count = 0;
+        static int count = 0;//计数器，标记一个数是否原来就是负数或是其他数
         static void Main(string[] args)
         {
             while (true) {

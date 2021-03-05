@@ -1,0 +1,7 @@
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_2\H2-4\bin\Debug\H2-4.exe.config
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_2\H2-4\bin\Debug\H2-4.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_2\H2-4\bin\Debug\H2-4.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_2\H2-4\obj\Debug\H2-4.csprojAssemblyReference.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_2\H2-4\obj\Debug\H2-4.csproj.CoreCompileInputs.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_2\H2-4\obj\Debug\H2-4.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_2\H2-4\obj\Debug\H2-4.pdb
