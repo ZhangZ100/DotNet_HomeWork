@@ -10,8 +10,8 @@ namespace H2_4
     {
         static void Main(string[] args)
         {
-            int[,] ints = new int[,] { { 1,2,3,4 },{ 5,1,2,3},{ 9,5,2,2 } };
-            int[,] ints2 = new int[,]{ { 1,2,3,4 },{ 5,1,2,3},{ 9,5,1,2 } };
+            int[,] ints = new int[,] { { 1,2,3,4},{ 5,1,2,3},{9,5,2,2 } };
+            int[,] ints2 = new int[,] { { 1, 2, 3, 4 }, { 5, 1, 2, 3 }, { 9, 5, 1, 2 } };
             Console.WriteLine(IsTheMatrix(ints));
             Console.WriteLine(ints2);//是该矩阵
         }

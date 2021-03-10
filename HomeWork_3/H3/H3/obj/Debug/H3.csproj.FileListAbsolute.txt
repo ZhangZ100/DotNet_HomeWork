@@ -1,0 +1,7 @@
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3\bin\Debug\H3.exe.config
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3\bin\Debug\H3.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3\bin\Debug\H3.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3\obj\Debug\H3.csprojAssemblyReference.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3\obj\Debug\H3.csproj.CoreCompileInputs.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3\obj\Debug\H3.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3\obj\Debug\H3.pdb
