@@ -1,0 +1,11 @@
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\bin\Debug\H3-2.exe.config
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\bin\Debug\H3-2.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\bin\Debug\H3-2.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\bin\Debug\H3.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\bin\Debug\H3.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\bin\Debug\H3.exe.config
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\obj\Debug\H3-2.csprojAssemblyReference.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\obj\Debug\H3-2.csproj.CoreCompileInputs.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\obj\Debug\H3-2.csproj.CopyComplete
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\obj\Debug\H3-2.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_3\H3\H3-2\obj\Debug\H3-2.pdb

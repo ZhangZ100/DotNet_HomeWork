@@ -21,7 +21,7 @@ namespace H3
         }
     }
 
-    interface Graph {
+    public interface Graph {
         //图形基类
          double GetArea();
 
@@ -29,7 +29,7 @@ namespace H3
     }
 
     //长方形类
-    class Rectangle : Graph {
+    public class Rectangle : Graph {
         private double length;
         private double width;
 
@@ -57,7 +57,7 @@ namespace H3
     }
 
     //正方形类
-    class Square : Graph
+    public class Square : Graph
     {
         private double sideLength;
 
@@ -85,7 +85,7 @@ namespace H3
     }
 
     //正方形类
-    class Triangle : Graph
+    public class Triangle : Graph
     {
         private double sideLength_1;
         private double sideLength_2;
