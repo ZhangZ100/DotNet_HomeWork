@@ -1,0 +1,14 @@
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\bin\Debug\H6.exe.config
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\bin\Debug\H6.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\bin\Debug\H6.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\obj\Debug\H6.csprojAssemblyReference.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\obj\Debug\H6.csproj.CoreCompileInputs.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\obj\Debug\H6.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\obj\Debug\H6.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\bin\Debug\xunit.abstractions.dll
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\bin\Debug\xunit.core.dll
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\bin\Debug\xunit.execution.desktop.dll
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\bin\Debug\xunit.abstractions.xml
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\bin\Debug\xunit.core.xml
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\bin\Debug\xunit.execution.desktop.xml
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_6\H6\obj\Debug\H6.csproj.CopyComplete

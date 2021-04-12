@@ -1,0 +1,10 @@
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_7\H7\bin\Debug\H7.exe.config
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_7\H7\bin\Debug\H7.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_7\H7\bin\Debug\H7.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_7\H7\obj\Debug\H7.csprojAssemblyReference.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_7\H7\obj\Debug\H7.Form1.resources
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_7\H7\obj\Debug\H7.Properties.Resources.resources
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_7\H7\obj\Debug\H7.csproj.GenerateResource.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_7\H7\obj\Debug\H7.csproj.CoreCompileInputs.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_7\H7\obj\Debug\H7.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_7\H7\obj\Debug\H7.pdb
