@@ -1,0 +1,10 @@
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_9\hw9\bin\Debug\hw9.exe.config
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_9\hw9\bin\Debug\hw9.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_9\hw9\bin\Debug\hw9.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_9\hw9\obj\Debug\hw9.csprojAssemblyReference.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_9\hw9\obj\Debug\hw9.Properties.Resources.resources
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_9\hw9\obj\Debug\hw9.csproj.GenerateResource.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_9\hw9\obj\Debug\hw9.csproj.CoreCompileInputs.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_9\hw9\obj\Debug\hw9.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_9\hw9\obj\Debug\hw9.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_9\hw9\obj\Debug\hw9.FormCrawl.resources
