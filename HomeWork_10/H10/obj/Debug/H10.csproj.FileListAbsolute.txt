@@ -1,0 +1,7 @@
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_10\H10\obj\Debug\H10.csprojAssemblyReference.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_10\H10\obj\Debug\H10.csproj.CoreCompileInputs.cache
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_10\H10\bin\Debug\H10.exe.config
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_10\H10\bin\Debug\H10.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_10\H10\bin\Debug\H10.pdb
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_10\H10\obj\Debug\H10.exe
+E:\GitRepos\repo_local\ZhangZ100\DotNet_HomeWork\HomeWork_10\H10\obj\Debug\H10.pdb

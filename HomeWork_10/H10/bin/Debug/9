@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE"/>
+    <title>博客园</title>
+    <base href="/"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="icon" type="image/x-icon" href="//common.cnblogs.com/favicon.ico"/>
+    <meta name="description" content="博客园是一个面向开发者的知识分享社区。"/>
+    <meta name="og:description" content="博客园是一个面向开发者的知识分享社区。"/>
+  <link rel="stylesheet" href="styles.18055be4eba6aa87ad55.css"></head>
+  <body class="mat-typography">
+    <app-root>
+      <div class="app-root-loading">
+        <div role="progressbar" class="mdc-linear-progress mdc-linear-progress--indeterminate">
+          <div class="mdc-linear-progress__buffer">
+            <div class="mdc-linear-progress__buffer-bar"></div>
+            <div class="mdc-linear-progress__buffer-dots"></div>
+          </div>
+          <div class="mdc-linear-progress__bar mdc-linear-progress__primary-bar">
+            <span class="mdc-linear-progress__bar-inner"></span>
+          </div>
+          <div class="mdc-linear-progress__bar mdc-linear-progress__secondary-bar">
+            <span class="mdc-linear-progress__bar-inner"></span>
+          </div>
+        </div>
+      </div>
+    </app-root>
+    <script nomodule="">
+      document.body.insertAdjacentHTML(
+        'afterbegin',
+        '<div id="unsupported-browser">您使用的浏览器不受支持，建议使用新版 <a href="https://www.google.cn/intl/zh-CN/chrome/">Google Chrome</a> / <a href="https://www.microsoft.com/zh-cn/edge">Microsoft Edge</a> / <a href="https://www.mozilla.org/zh-CN/firefox/">Firefox</a> 浏览器 <button class="close" onclick="document.getElementById(\'unsupported-browser\').style.display = \'none\'">×</button></div>'
+      );
+    </script>
+  <script src="runtime-es2015.7ee33571e1f1882d2e92.js" type="module"></script><script src="runtime-es5.7ee33571e1f1882d2e92.js" nomodule defer></script><script src="polyfills-es5.2ca628d511ac232af602.js" nomodule defer></script><script src="polyfills-es2015.eb1eaf8ec9aa10975b91.js" type="module"></script><script src="main-es2015.23d27420b09d45367726.js" type="module"></script><script src="main-es5.23d27420b09d45367726.js" nomodule defer></script></body>
+</html>
